@@ -9,8 +9,8 @@ public class DynamicLinkingTest {
         DynamicLinkingTest dynamicLinkingTest = new DynamicLinkingTest();
         dynamicLinkingTest.printMsg();
     }
-    
-    public void printMsg(){
+
+    public void printMsg() {
         System.out.println("DynamicLinkingTest printMsg method!");
     }
 }
