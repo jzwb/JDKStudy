@@ -1,4 +1,4 @@
-package com.aapo.sortalgorithm;
+package com.aapo.algorithm.sort;
 
 /**
  * 选择排序

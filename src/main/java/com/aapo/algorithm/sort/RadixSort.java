@@ -1,4 +1,4 @@
-package com.aapo.sortalgorithm;
+package com.aapo.algorithm.sort;
 
 import java.util.ArrayList;
 import java.util.List;
